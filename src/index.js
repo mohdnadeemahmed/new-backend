@@ -2,7 +2,8 @@
 
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-//import {DB_NAME} from "./constants"
+//
+// import {DB_NAME} from "./constants"
 import connectDB from "./db/index.js";  // Adjust the path based on where db.js is located
 ;
 
