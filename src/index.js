@@ -8,7 +8,7 @@ import connectDB from "./db/index.js";  // Adjust the path based on where db.js 
 ;
 
 dotenv.config({
-    path: './env'
+    path: './.env'
 })
 
 connectDB()
